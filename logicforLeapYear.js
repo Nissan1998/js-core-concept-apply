@@ -13,3 +13,9 @@ function checkLeapYear(year) {
 // take input
 const year = checkLeapYear(2024)
 console.log(year);
+let a =50;
+if(items=>50){}
+if (false){
+
+}
+for (let i=50; i<10)
